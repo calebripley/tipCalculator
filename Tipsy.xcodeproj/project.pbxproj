@@ -491,6 +491,7 @@
 				8F9A1BE01C13B81B000E7E64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8F9A1BE11C13B81B000E7E64 /* Build configuration list for PBXNativeTarget "TipsyTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +500,7 @@
 				8F9A1BE31C13B81B000E7E64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8F9A1BE41C13B81B000E7E64 /* Build configuration list for PBXNativeTarget "TipsyUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +509,7 @@
 				8F9A1BE61C13B81B000E7E64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
